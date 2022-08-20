@@ -1,0 +1,133 @@
+<html>
+<meta charset="UTF-8">
+    <meta name="viewport"
+    concert=width=devace-width initial-scale=1.0>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@1&display=swap" rel="stylesheet">
+	<title> Curriculo - Talilo Tarlison </title>
+<style type="text/css"> 
+body{
+font-family: 'Open Sans', sans-serif;
+}
+
+.cabecalho { 
+margin-top: 20px;
+background-color: #f9f0d3;
+}
+
+.titulo, .titulo__descrito  {  
+width: 100%;
+background-color: white;
+text-align:center;
+margin: 0 auto;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.habilidade,.contato, .habilidade,.formacao,.link {
+border: solid 1px gray;
+padding: 10px;
+width: 200px;
+border-radius: 10px;
+margin: 15px;
+}
+
+h4{
+text-transform: uppercase;
+font-weight: bold;
+text-shadow
+}
+
+.sobre, .cursos{
+border: solid 1px gray;
+padding: 10px;
+width: 100%;
+border-radius: 10px;
+margin: 15px;
+}
+.sobre__mim{
+overflow-wrap: break-word;
+overflow: hidden;
+
+}
+
+.box{
+display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+</style> 
+<body>
+	<header class="cabecalho">
+		<h2 class="titulo">Talilo Tarlison</h2>
+		<p class="titulo__descrito">Estudante de Admistração</p>
+	</header>
+<main>
+	<div class="box">
+	<section>
+		<div class="contato">
+			<p>Contato</p>
+			<ul>
+				<li>ttarlison@gmai.com</li>
+				<li>(86) 98131-8021</li>
+				<li>Cocal dos Alves - PI</li>
+			</ul>	
+		</div>
+		<div class="habilidade">
+			<h4>Skills</h4>
+			<ul>
+				<li>Progamação Web</li>
+				<li> Desing</li>
+				<li>Comunicação</li>
+			</ul>	
+		</div>
+		<div class="formacao">
+			<h4>Formação Academica</h4>
+			<ul>
+				<li>Administração</li>
+				<li> Analise e Desemvolvimento de Sistema</li>
+			</ul>
+		</div>	
+		<div class="link">
+			<h4>Redes Sociais</h4>
+			<ul>
+				<li><a  href="#">Linkdin</a> </li>
+				<li><a  href="#">Facebook</a> </li>
+				<li><a  href="#">Whatapp</a> </li>
+				<li><a  href="#">Instagram</a> </li>
+			</ul>
+		</div>	
+	</section>
+
+
+	<section>
+		<div class="sobre">
+			<h4 class="sobre__mim">Sobre mim</h4>
+				<p>Me chamo Talilo Tarlison ,tenho ensino-medio completo CETI Augustinho Brandão (2013). Estudante de Administração UESPI/UAPI (2022), Tecnico em Enfermagem TECNORT (2021), e Desenvolvimento Web Full-Stack Alura (2022). Estou atualmente estudando HTML5. CSS e JS, React, Node, Bootstrap, MySQL...</p>
+			</p>
+		</div>
+		<div class="cursos">
+				<h4  class="sobre__mim">Meus Cursos</h4>
+				<p>Bacharelado em Administração (UESPI/UAPI)</p>
+				<p>Tecnico de Enfermagem (TECNORT )</p>
+				<p>Desenvolvimento Web Full-Stack (ALURA) (UDEMY)</p>
+				<p>INFORMATICA BASICA</p>
+				<p>VENDAS (PRONATEC)</p>
+				<p>VENDAS (PRONATEC)</p>
+				<p>VENDAS (PRONATEC)</p>
+				<p>CursoATENDENTE DE FARMACIA (UNISIC),ATENDENTE DE FARMACIA E DROGARIA,AGENTE DE ANDEMIAS,ATENDIMENTO DOMICILIAR,ENFERMAGEM DOMICILIAR,RECEPCIONISTA DE CLINICAS MEDICA,PRIMEIROS SOCORROS.</p>
+				<p>ASTRONOMIA,ASTROFISICA,COSMOLOGIA(UFSC)</p>
+		</div>
+	</section>
+	</div>
+</main>		
+</body>
+
+</html>
