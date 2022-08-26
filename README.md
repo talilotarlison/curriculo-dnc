@@ -13,6 +13,6 @@
 
 # Projeto de um currículo do curso da DNC de html e css basico.
  
-## curriculo-dnc
+# curriculo-dnc
 
-# Usar nossas habilidades e criar um currículo.
+### Usar nossas habilidades e criar um currículo.
