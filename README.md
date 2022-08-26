@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-# 📎 Projeto de um currículo do curso da DNC de html e css basico.
+# 🏷️ Projeto de um currículo do curso da DNC de html e css basico.
  
-# curriculo-dnc
+## curriculo-dnc
 
-### Usar nossas habilidades e criar um currículo.
+## Usar nossas habilidades e criar um currículo.
